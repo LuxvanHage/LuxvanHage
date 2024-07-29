@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gordon
 - 🌱 I’m currently learning Gordon
 - 💞️ I’m looking to collaborate on Gordons new album
-- 📫 How to reach me Gordonlover@gmail.com
+- 📫 How to reach me Gordon@gmail.com
 - 😄 Pronouns: Gor/don
 - ⚡ Fun fact: Gordon
 
