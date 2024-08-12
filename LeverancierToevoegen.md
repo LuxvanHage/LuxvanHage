@@ -6,6 +6,7 @@ Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen i
 
 ### **Stap 1: Open Florisoft**
 Start de Florisoft-applicatie op je computer.
+
 ![image](https://github.com/user-attachments/assets/17033e0b-88e6-441e-9555-ad8c3da37adc)
 
 ### **Stap 2: Open Constanten**
