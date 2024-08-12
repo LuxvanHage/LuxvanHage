@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @LuxvanHage
-- 👀 I’m interested in Gordon
-- 🌱 I’m currently learning Gordon
-- 💞️ I’m looking to collaborate on Gordons new album
-- 📫 How to reach me Gordon@gmail.com
-- 😄 Pronouns: Gor/don
-- ⚡ Fun fact: Gordon
+# **Leverancier Toevoegen in Florisoft**
 
-<!---
-LuxvanHage/LuxvanHage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen in Florisoft.
+
+## **Stappenplan**
+
+### **Stap 1: Open Florisoft**
+Start de Florisoft-applicatie op je computer.
+
+### **Stap 2: Open Constanten**
+Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+
+### **Stap 3: Navigeer naar Leveranciersgegevens**
+Ga naar het menu **"Organen"** en selecteer **"Leveranciersgegevens"**. Klik vervolgens op **"Leveranciers"**.
+
+### **Stap 4: Voeg een Nieuwe Leverancier Toe**
+Klik op de knop om een **nieuwe leverancier toe te voegen** (deze knop heeft meestal een plus- of toevoegsymbool).
+
+### **Stap 5: Vul de Gegevens In**
+Voer de volgende gegevens in:
+
+- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
+- **Overige informatie:** Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
+
+> **Tip:** Zorg ervoor dat alle verplichte velden zijn ingevuld om fouten te voorkomen.
+
+---
+
+**Opmerking:** Vergeet niet om aanvullende informatie toe te voegen, zoals contactpersonen, betalingsvoorwaarden, en leveringsinformatie, indien van toepassing.
