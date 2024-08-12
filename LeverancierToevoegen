@@ -1,29 +1,24 @@
-# Handleiding: Leverancier Toevoegen
+Leverancier Toevoegen in Florisoft
+Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen in Florisoft.
 
-Deze handleiding beschrijft stap voor stap hoe je een leverancier toevoegt in Florisoft.
+Stappenplan
+Stap 1: Open Florisoft
+Start de Florisoft-applicatie op je computer.
 
-## Stappenplan
+Stap 2: Open Constanten
+Klik linksboven in het scherm op "Constanten" om het constantenmenu te openen.
 
-### Stap 1: Open Florisoft
-Start de Florisoft applicatie op je computer.
+Stap 3: Navigeer naar Leveranciersgegevens
+Ga naar het menu "Organen" en selecteer "Leveranciersgegevens". Klik vervolgens op "Leveranciers".
 
-### Stap 2: Open Constanten
-Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+Stap 4: Voeg een Nieuwe Leverancier Toe
+Klik op de knop om een nieuwe leverancier toe te voegen (deze knop heeft meestal een plus- of toevoegsymbool).
 
-### Stap 3: Navigeer naar Leveranciersgegevens
-Ga naar het menu **"Organen"** en kies vervolgens **"Leveranciersgegevens"**. Klik daarna op **"Leveranciers"**.
+Stap 5: Vul de Gegevens In
+Voer de volgende gegevens in:
 
-### Stap 4: Voeg een Nieuwe Leverancier Toe
-Klik op de knop **"Nieuwe Leverancier"** (meestal een plus- of toevoegknop).
+Leverancierscode (Lev.code): Dit is het klantnummer van RFH.
+Overige informatie: Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
+Tip: Zorg ervoor dat alle verplichte velden zijn ingevuld om fouten te voorkomen.
 
-### Stap 5: Vul de Gegevens In
-Vul de volgende gegevens in:
-
-- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
-- **Overige velden:** Vul zoveel mogelijk informatie in bij de andere tabellen van de leverancier.
-
-> **Tip:** Zorg ervoor dat alle verplichte velden ingevuld zijn om fouten te voorkomen.
-
----
-
-**Opmerking:** Indien nodig, kun je ook aanvullende informatie toevoegen, zoals contactpersonen, betalingsvoorwaarden, en leveringsinformatie.
+Opmerking: Vergeet niet om aanvullende informatie toe te voegen, zoals contactpersonen, betalingsvoorwaarden, en leveringsinformatie, indien van toepassing.
