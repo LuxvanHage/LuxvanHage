@@ -1,13 +1,29 @@
-## Leverancier toevoegen
+# Handleiding: Leverancier Toevoegen
 
-Volg deze stappen om een leverancier zo goed mogelijk toe te voegen:
+Deze handleiding beschrijft stap voor stap hoe je een leverancier toevoegt in Florisoft.
 
-1. **Open Florisoft**
+## Stappenplan
 
-2. **Open constanten** (links bovenin)
+### Stap 1: Open Florisoft
+Start de Florisoft applicatie op je computer.
 
-3. **Ga naar Organen > Levanciersgegevens > Leveranciers**
+### Stap 2: Open Constanten
+Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
 
-4. **Druk op het onderstaande knopje**
+### Stap 3: Navigeer naar Leveranciersgegevens
+Ga naar het menu **"Organen"** en kies vervolgens **"Leveranciersgegevens"**. Klik daarna op **"Leveranciers"**.
 
-5. **Vul Lev.code in** (klantnummer RFH) en zoveel mogelijk informatie in bij andere tabellen leverancier zoals hier weergegeven:
+### Stap 4: Voeg een Nieuwe Leverancier Toe
+Klik op de knop **"Nieuwe Leverancier"** (meestal een plus- of toevoegknop).
+
+### Stap 5: Vul de Gegevens In
+Vul de volgende gegevens in:
+
+- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
+- **Overige velden:** Vul zoveel mogelijk informatie in bij de andere tabellen van de leverancier.
+
+> **Tip:** Zorg ervoor dat alle verplichte velden ingevuld zijn om fouten te voorkomen.
+
+---
+
+**Opmerking:** Indien nodig, kun je ook aanvullende informatie toevoegen, zoals contactpersonen, betalingsvoorwaarden, en leveringsinformatie.
