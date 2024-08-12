@@ -6,10 +6,11 @@ Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen i
 
 ### **Stap 1: Open Florisoft**
 Start de Florisoft-applicatie op je computer.
-![image](https://user-images.githubusercontent.com/107180033/175925697-892de972-636c-45dc-859f-74fe9a0e3573.png)
+![image](https://github.com/user-attachments/assets/17033e0b-88e6-441e-9555-ad8c3da37adc)
 
 ### **Stap 2: Open Constanten**
 Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+
 ![image](https://github.com/user-attachments/assets/ca77c584-83c3-447f-8583-d5efaf7baa6e)
 
 ### **Stap 3: Navigeer naar Leveranciersgegevens**
