@@ -33,4 +33,3 @@ Voer de volgende gegevens in:
 
 ---
 
-**Opmerking:** Vergeet niet om aanvullende informatie toe te voegen, zoals contactpersonen, betalingsvoorwaarden, en leveringsinformatie, indien van toepassing.
