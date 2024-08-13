@@ -50,7 +50,7 @@ Na voltooiing van de update verschijnt een melding. Lees deze door en klik op **
 Start Florisoft opnieuw op en vul je inloggegevens in.
 
 ### **Stap 10: Start de Purge**
-Wanneer het venster **Start Purge** verschijnt, klik je op **Start online purge**. Dit zorgt ervoor dat de update op de achtergrond wordt uitgevoerd, zonder de gebruikers te storen.
+Wanneer het venster **Start Purge** verschijnt, klik je op **Start online purge**. Dit zorgt ervoor dat de update op de achtergrond wordt uitgevoerd, zonder de gebruikers te storen. (Krijg je dit niet kijk of je wel op de BINLATEST)
 
 ![Start online purge](https://github.com/user-attachments/assets/1011171f-efb3-4a8d-a59a-3d096cae4755)
 
