@@ -7,6 +7,12 @@ Volg de onderstaande stappen om de nieuwste versie van Florisoft op te halen en 
 ### **Stap 1: Log in op de server**
 Log in op **FTG-PGSVDP01** (voor de live-versie) of **FTG-PGSTEST01** (voor de testversie) en start Florisoft.
 
+![image](https://github.com/user-attachments/assets/aca3eaba-582d-4b4a-a20a-bea902e3e1a2)
+
+
+![image](https://github.com/user-attachments/assets/0b575d61-0dd4-4af1-82ff-c4da7f18f5dc)
+
+
 ### **Stap 2: Controleer de huidige versie**
 Controleer welke versie je momenteel gebruikt en pas deze indien nodig aan. Ga hiervoor naar **Constanten** > **Systeem** > **Users** > **Eigen user**.
 
