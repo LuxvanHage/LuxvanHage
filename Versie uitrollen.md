@@ -7,7 +7,7 @@ Volg de onderstaande stappen om de nieuwste versie van Florisoft op te halen en 
 ### **Stap 1: Log in op de server**
 Open de RDP (Remote Desktop Connection)
 
-![image](https://github.com/user-attachments/assets/80b91afd-5b6b-4bbe-8a97-9379475f3dec)
+![image](https://github.com/user-attachments/assets/761499c7-f5b1-46db-86fb-95caf12cad97)
 
 
 ### **Stap 2: Log in op de server**
