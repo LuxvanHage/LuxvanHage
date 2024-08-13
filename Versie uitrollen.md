@@ -31,7 +31,8 @@ Wacht totdat de back-up is gemaakt. Dit wordt aangegeven met de melding: **Bezig
 ### **Stap 7: Lees de update-melding**
 Na voltooiing van de update verschijnt een melding. Lees deze door en klik op **OK**.
 
-![Update voltooid](https://github.com/user-attachments/assets/3cbd4068-67f3-4754-afc9-55c2269e777f)
+![Update voltooid](https://github.com/user-attachments/assets/bb025677-b659-4cf0-9b10-5b9646f70a6c)
+
 
 ### **Stap 8: Herstart Florisoft**
 Start Florisoft opnieuw op en vul je inloggegevens in.
