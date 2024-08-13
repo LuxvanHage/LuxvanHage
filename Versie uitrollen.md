@@ -50,6 +50,8 @@ Wanneer de Purge klaar is, verschijnt een melding. Lees deze door en klik op **O
 ### **Stap 11: Herstart Florisoft opnieuw**
 Sluit Florisoft af en start het opnieuw op. Vul je inloggegevens in.
 
+Je hebt nu de nieuwste versie opgehaald van florisoft
+
 ---
 
 # **Uitrol van de nieuwe versie**
