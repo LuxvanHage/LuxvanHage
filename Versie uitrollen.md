@@ -51,7 +51,7 @@ Sluit Florisoft af en start het opnieuw op. Vul je inloggegevens in.
 
 ---
 
-## **Uitrol van de nieuwe versie**
+# **Uitrol van de nieuwe versie**
 
 ### **Stap 1: Open het Florisoft-icoon**
 Klik met de rechtermuisknop op het Florisoft-icoon.
