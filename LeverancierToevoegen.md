@@ -29,7 +29,5 @@ Voer de volgende gegevens in:
 - **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
 - **Overige informatie:** Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
 
-> **Tip:** Zorg ervoor dat alle verplichte velden zijn ingevuld om fouten te voorkomen.
-
 ---
 
