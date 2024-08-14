@@ -1,33 +1,51 @@
-# **Leverancier Toevoegen in Florisoft**
+# Stappenplan voor het Downloaden en Installeren van Florisoft APK's
 
-Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen in Florisoft.
+Dit stappenplan begeleidt je door het proces van het downloaden en installeren van de benodigde Florisoft APK-bestanden op je PDA of smartphone, zodat je deze kunt gebruiken voor barcode-scanning.
 
-## **Stappenplan**
+## Vereisten
+- Een PDA of smartphone met Android OS
+- Internettoegang om de APK-bestanden te downloaden
 
-### **Stap 1: Open Florisoft**
-Start de Florisoft-applicatie op je computer.
+## Stappen
 
-![image](https://github.com/user-attachments/assets/17033e0b-88e6-441e-9555-ad8c3da37adc)
+### 1. Voorbereiding
+Voordat je de APK-bestanden kunt downloaden en installeren, zorg ervoor dat je PDA of smartphone klaar is voor gebruik:
 
-### **Stap 2: Open Constanten**
-Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+1. **Activeer de optie om apps van onbekende bronnen te installeren**:
+   - Ga naar `Instellingen` > `Beveiliging`.
+   - Schakel de optie `Onbekende bronnen` in. Dit stelt je in staat om apps te installeren die niet via de Google Play Store zijn gedownload.
 
-![image](https://github.com/user-attachments/assets/ca77c584-83c3-447f-8583-d5efaf7baa6e)
+### 2. Download de APK-bestanden
+Download de benodigde APK-bestanden door de volgende URL's direct op je PDA of smartphone te openen en de bestanden te downloaden:
 
-### **Stap 3: Navigeer naar Leveranciersgegevens**
-Ga naar het menu **"Organen"** en selecteer **"Leveranciersgegevens"**. Klik vervolgens op **"Leveranciers"**.
-![image](https://github.com/user-attachments/assets/83474173-2675-416d-8c3b-ce931af8fd60)
+- **Karopbouw APK**  
+  [Download hier](https://app.florisoft.nl/karopbouw/karopbouw.apk)
 
-### **Stap 4: Voeg een Nieuwe Leverancier Toe**
-Klik op de knop om een **nieuwe leverancier toe te voegen** (deze knop heeft meestal een plus- of toevoegsymbool).
-![image](https://github.com/user-attachments/assets/f0367847-60f6-44a0-ab64-c158ad96a9d3)
+- **Sales POS APK**  
+  [Download hier](https://app.florisoft.nl/Apps/latest/Sales.POS/Android/com.Florisoft.Sales.POS-Signed.apk)
 
-### **Stap 5: Vul de Gegevens In**
-Voer de volgende gegevens in:
-![image](https://github.com/user-attachments/assets/53854d41-a0db-4fdd-a0e7-c98a3f5de9ac)
+- **Logistics Packing APK**  
+  [Download hier](https://app.florisoft.nl/apps/latest/logistics.packing/android/com.Florisoft.Logistics.Packing-Signed.apk)
 
-- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
-- **Overige informatie:** Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
+### 3. Installeer de APK-bestanden
+Nadat je de APK-bestanden hebt gedownload, volg je deze stappen om ze te installeren:
+
+1. **Open de map `Downloads`** op je PDA of smartphone.
+2. Zoek de gedownloade APK-bestanden (bijvoorbeeld `karopbouw.apk`).
+3. Tik op elk bestand om het installatieproces te starten.
+4. Volg de instructies op het scherm om de installatie te voltooien.
+
+### 4. Voltooi de Setup
+Na de installatie kun je de geïnstalleerde apps openen en beginnen met het gebruik ervan. Zorg ervoor dat je PDA of smartphone geschikt is voor het scannen van barcodes en dat de apps correct zijn geconfigureerd voor jouw werkomgeving.
+
+## Veelvoorkomende Problemen en Oplossingen
+- **Installatie geblokkeerd**: Als de installatie wordt geblokkeerd, zorg ervoor dat de optie voor het installeren van apps van onbekende bronnen is ingeschakeld.
+- **APK niet gevonden**: Controleer of de bestanden correct zijn gedownload. Zo niet, probeer de download opnieuw uit te voeren.
+
+### 5. Veiligheidsoverwegingen
+- **Verwijder APK-bestanden na installatie**: Voor extra veiligheid, verwijder de APK-bestanden na installatie om te voorkomen dat ze per ongeluk opnieuw worden geïnstalleerd.
+- **Controleer op updates**: Regelmatig controleren op updates van de apps om ervoor te zorgen dat je altijd de nieuwste functies en beveiligingspatches hebt.
 
 ---
 
+Dit stappenplan is opgesteld om je te helpen bij een soepele installatie. Mocht je vragen of problemen tegenkomen, neem dan contact op met je systeembeheerder voor verdere ondersteuning.
