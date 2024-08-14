@@ -16,7 +16,7 @@ Dit zijn de links voor alle Florisoft APK's:
 
 ## 2. Installeer de APK
 
-1. Open de app **Files** op je PDA.
+1. Open de app `Files` op je PDA.
 2. Navigeer naar de map `Downloads`.
 3. Tik op het APK-bestand dat je wilt installeren.
 4. Volg de installatie-instructies op het scherm.
