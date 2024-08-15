@@ -30,7 +30,9 @@
   - **Optie 2:** Wijs de app toe aan specifieke groepen gebruikers of apparaten.
 
 ![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
+
 ![Stap 6.2](https://github.com/user-attachments/assets/7a4eabbf-7d01-48e9-97ba-30b6a6d5ec04)
+
 ![Stap 6.3](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
 
 ### Stap 7: Release de App
