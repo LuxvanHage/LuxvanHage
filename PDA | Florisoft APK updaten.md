@@ -32,7 +32,7 @@
   - 
 ![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
 
-![Stap 6.3](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
+![Stap 6.2](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
 
 ### Stap 7: Druk rechtsonder op 'Go Formal Release'
 ![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
