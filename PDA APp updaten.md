@@ -24,3 +24,15 @@
 - Upload de nieuwe APK-file die de update bevat. Wacht tot het uploaden voltooid is en klik vervolgens op 'Next'.
 
 ![Stap 5](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
+
+### Stap 6: Kies de Update-optie
+- Kies tussen de twee beschikbare opties:
+  - **Optie 1:** Update de app direct zonder groepen toe te wijzen.(Alle groepen worden geupdated!!!)
+  - **Optie 2:** Wijs de update toe aan specifieke groepen gebruikers of apparaten.
+  - 
+![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
+
+![Stap 6.3](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
+
+### Stap 7: Druk rechtsonder op 'Go Formal Release'
+![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
