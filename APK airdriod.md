@@ -1,33 +1,39 @@
-# **Leverancier Toevoegen in Florisoft**
+# Handleiding: Installeren van een app via een APK met AirDroid Business
 
-Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen in Florisoft.
+### Stap 1: Open AirDroid Business
+- Start de AirDroid Business applicatie en log in met je account.
 
-## **Stappenplan**
+### Stap 2: Ga naar 'Apps'
+- Klik in het menu aan de linkerzijde op "Apps". Dit brengt je naar het beheerscherm voor apps.
 
-### **Stap 1: Open Florisoft**
-Start de Florisoft-applicatie op je computer.
+![Stap 2](https://github.com/user-attachments/assets/6bc30fea-7484-4e6a-b27d-df4139933b9f)
 
-![image](https://github.com/user-attachments/assets/17033e0b-88e6-441e-9555-ad8c3da37adc)
+### Stap 3: Voeg een nieuwe app toe
+- Klik nu op de knop ‘+ Add App’ om een nieuwe app toe te voegen.
 
-### **Stap 2: Open Constanten**
-Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+![Stap 3](https://github.com/user-attachments/assets/cae27321-c67a-4e8b-8632-7c914de12207)
 
-![image](https://github.com/user-attachments/assets/ca77c584-83c3-447f-8583-d5efaf7baa6e)
+### Stap 4: Bevestig het venster
+- In het pop-up venster dat verschijnt, klik op ‘Next’ om door te gaan naar de volgende stap.
 
-### **Stap 3: Navigeer naar Leveranciersgegevens**
-Ga naar het menu **"Organen"** en selecteer **"Leveranciersgegevens"**. Klik vervolgens op **"Leveranciers"**.
-![image](https://github.com/user-attachments/assets/83474173-2675-416d-8c3b-ce931af8fd60)
+![Stap 4](https://github.com/user-attachments/assets/b26817b6-c627-4ba0-a0aa-e8886e9ffc38)
 
-### **Stap 4: Voeg een Nieuwe Leverancier Toe**
-Klik op de knop om een **nieuwe leverancier toe te voegen** (deze knop heeft meestal een plus- of toevoegsymbool).
-![image](https://github.com/user-attachments/assets/f0367847-60f6-44a0-ab64-c158ad96a9d3)
+### Stap 5: Upload de APK-file
+- Klik op ‘Upload APK’ en selecteer de gedownloade APK file op je computer. Zodra het bestand is geüpload, klik je op ‘Next’.
 
-### **Stap 5: Vul de Gegevens In**
-Voer de volgende gegevens in:
-![image](https://github.com/user-attachments/assets/53854d41-a0db-4fdd-a0e7-c98a3f5de9ac)
+![Stap 5](https://github.com/user-attachments/assets/8dc0afa5-0d72-4208-b592-46271b921d23)
+![Stap 6](https://github.com/user-attachments/assets/e191679e-c48c-49ab-9269-c0426e4f1bd6)
 
-- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
-- **Overige informatie:** Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
+### Stap 6: Kies de Installatie-optie
+- Kies tussen de twee beschikbare opties:
+  - **Optie 1:** Installeer de app direct zonder groepen toe te wijzen.
+  - **Optie 2:** Wijs de app toe aan specifieke groepen gebruikers of apparaten.
 
----
+![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
+![Stap 6.2](https://github.com/user-attachments/assets/7a4eabbf-7d01-48e9-97ba-30b6a6d5ec04)
+![Stap 6.3](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
 
+### Stap 7: Release de App
+- Na het maken van je keuze, klik op ‘Release’ om de app beschikbaar te maken voor installatie op de apparaten.
+
+![Stap 7](https://github.com/user-attachments/assets/42837da7-008c-44c0-9446-3560f1405c39)
