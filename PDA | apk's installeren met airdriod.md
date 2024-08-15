@@ -22,6 +22,7 @@
 - Klik op ‘Upload APK’ en selecteer de gedownloade APK file op je computer. Zodra het bestand is geüpload, klik je op ‘Next’.
 
 ![Stap 5](https://github.com/user-attachments/assets/8dc0afa5-0d72-4208-b592-46271b921d23)
+
 ![Stap 6](https://github.com/user-attachments/assets/e191679e-c48c-49ab-9269-c0426e4f1bd6)
 
 ### Stap 6: Kies de Installatie-optie
