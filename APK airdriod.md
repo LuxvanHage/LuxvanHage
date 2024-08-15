@@ -26,7 +26,7 @@
 
 ### Stap 6: Kies de Installatie-optie
 - Kies tussen de twee beschikbare opties:
-  - **Optie 1:** Installeer de app direct zonder groepen toe te wijzen.
+  - **Optie 1:** Installeer de app direct zonder groepen toe te wijzen.(pas hiermee op)
   - **Optie 2:** Wijs de app toe aan specifieke groepen gebruikers of apparaten.
 
 ![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
