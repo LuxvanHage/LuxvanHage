@@ -33,13 +33,13 @@
     - Voeg specifieke gebruikers, groepen of apparaten toe om de update eerst in een testfase te plaatsen. Dit is handig als je de update wilt testen met een beperkte groep gebruikers voordat je deze breder uitrolt.
     - Als je gebruikers of groepen toevoegt, klik dan op 'Test Release' om de update in de testfase te lanceren.
 
-  - **Optie 2: Directe Uitrol**
-    - Als je de update niet eerst wilt testen, kun je direct naar de formele release gaan.
-    - Laat het gebruikers- en groepenveld leeg en klik onderaan het scherm op 'Go Formal Release' om de update naar alle apparaten uit te rollen.
-
 ![Stap 6.1](https://github.com/user-attachments/assets/cba53eea-04a1-46be-9977-f4ced849d9ab)
 ![Stap 6.2](https://github.com/user-attachments/assets/f535ac1d-2b99-4019-aa18-26888991bde8)
 
+  - **Optie 2: Directe Uitrol**
+    - Als je de update niet eerst wilt testen, kun je direct naar de formele release gaan.
+    - Laat het gebruikers- en groepenveld leeg en klik onderaan het scherm op 'Go Formal Release' om de update naar alle apparaten uit te rollen.
+![image](https://github.com/user-attachments/assets/131a2e8a-2711-42bb-93aa-a013aaad161d)
 
 ### Stap 7: Druk rechtsonder op 'Go Formal Release'
 ![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
