@@ -42,7 +42,6 @@
       
 ![image](https://github.com/user-attachments/assets/131a2e8a-2711-42bb-93aa-a013aaad161d)
 
-### Stap 7: Druk rechtsonder op 'Go Formal Release'
-![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
+
 
 
