@@ -3,13 +3,12 @@
 ### Stap 1: Ga naar 'Apps'
 - Ga in het menu naar "Apps" om naar het apps-overzicht te gaan.
 
-![Stap 1](https://github.com/user-attachments/assets/f0f94829-3704-452a-97fc-3e3c669ea4d7)
-
+![Stap 1](https://github.com/user-attachments/assets/59dc11cb-ea34-4675-a5b6-7abd77e8bf9d)
 
 ### Stap 2: Selecteer de app die je wilt updaten
 - Klik op de app die je wilt updaten uit de lijst van geïnstalleerde apps.
 
-![Stap 2](https://github.com/user-attachments/assets/514e3db8-0d1b-4099-bc8d-e3b773903c49)
+![Stap 2(https://github.com/user-attachments/assets/f0f94829-3704-452a-97fc-3e3c669ea4d7)
 
 ### Stap 3: Ga naar 'Version Updates'
 - Klik in het menu van de geselecteerde app op 'Version Updates' om de update-opties te openen.
