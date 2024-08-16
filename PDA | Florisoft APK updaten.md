@@ -26,14 +26,10 @@
 
 ![Stap 5.2](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
 
-### Stap 6: Kies de Update-optie
-- Kies tussen de twee beschikbare opties:
-  - **Optie 1:** Update de app direct zonder groepen toe te wijzen.(Alle groepen worden geupdated!!!)
-  - **Optie 2:** Wijs de update toe aan specifieke groepen gebruikers of apparaten.
+### Stap 6: Kies wie de Update krijgen
+![Stap 6.1](https://github.com/user-attachments/assets/cba53eea-04a1-46be-9977-f4ced849d9ab)
 
-![Stap 6.1](https://github.com/user-attachments/assets/e014038d-cc3e-44e2-8dca-2287a8bdb8cf)
-
-![Stap 6.2](https://github.com/user-attachments/assets/048d5c0b-dde6-4248-b2a4-ffe110745708)
+![Stap 6.2](https://github.com/user-attachments/assets/f535ac1d-2b99-4019-aa18-26888991bde8)
 
 ### Stap 7: Druk rechtsonder op 'Go Formal Release'
 ![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
