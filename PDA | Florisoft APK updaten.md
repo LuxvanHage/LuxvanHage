@@ -39,6 +39,7 @@
   - **Optie 2: Directe Uitrol**
     - Als je de update niet eerst wilt testen, kun je direct naar de formele release gaan.
     - Laat het gebruikers- en groepenveld leeg en klik onderaan het scherm op 'Go Formal Release' om de update naar alle apparaten uit te rollen.
+      
 ![image](https://github.com/user-attachments/assets/131a2e8a-2711-42bb-93aa-a013aaad161d)
 
 ### Stap 7: Druk rechtsonder op 'Go Formal Release'
