@@ -22,8 +22,9 @@
 
 ### Stap 5: Upload de nieuwe APK-file
 - Upload de nieuwe APK-file die de update bevat. Wacht tot het uploaden voltooid is en klik vervolgens op 'Next'.
+![Stap 5.1](https://github.com/user-attachments/assets/c7c0767b-b28e-4704-aff0-bf5110eecc6f)
 
-![Stap 5](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
+![Stap 5.2](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
 
 ### Stap 6: Kies de Update-optie
 - Kies tussen de twee beschikbare opties:
