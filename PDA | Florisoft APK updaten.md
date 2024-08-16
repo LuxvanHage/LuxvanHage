@@ -3,7 +3,8 @@
 ### Stap 1: Ga naar 'Apps'
 - Ga in het menu naar "Apps" om naar het apps-overzicht te gaan.
 
-![Stap 1](https://github.com/user-attachments/assets/3c4e26c8-d5e1-4478-9ea7-88016f699afe)
+![Stap 1](https://github.com/user-attachments/assets/f0f94829-3704-452a-97fc-3e3c669ea4d7)
+
 
 ### Stap 2: Selecteer de app die je wilt updaten
 - Klik op de app die je wilt updaten uit de lijst van geïnstalleerde apps.
