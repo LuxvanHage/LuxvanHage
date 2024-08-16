@@ -13,7 +13,8 @@
 ### Stap 3: Ga naar 'Version Updates'
 - Klik in het menu van de geselecteerde app op 'Version Updates' om de update-opties te openen.
 
-![Stap 3](https://github.com/user-attachments/assets/584681e0-01bb-43dc-bb64-bc1f92649559)
+![Stap 3](https://github.com/user-attachments/assets/7c84c276-ee40-4bec-ad75-a1b4a8611ebc)
+
 
 ### Stap 4: Start de update
 - Klik rechtsboven in het scherm op de knop 'Update' om het updateproces te starten.
