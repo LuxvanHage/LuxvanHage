@@ -26,7 +26,7 @@
 
 ![Stap 5.2](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
 
-### Stap 6: Kies wie de Update krijgen
+### Stap 6: Kies wie de update krijgt
 ![Stap 6.1](https://github.com/user-attachments/assets/cba53eea-04a1-46be-9977-f4ced849d9ab)
 
 ![Stap 6.2](https://github.com/user-attachments/assets/f535ac1d-2b99-4019-aa18-26888991bde8)
