@@ -35,7 +35,8 @@
 
 ![Stap 6.1](https://github.com/user-attachments/assets/ea61d133-bd28-4e40-a993-59571599ffd5)
 
-![Stap 6.2](https://github.com/user-attachments/assets/f535ac1d-2b99-4019-aa18-26888991bde8)
+![Stap 6.2](https://github.com/user-attachments/assets/d26617ef-adeb-4a68-98b9-91f612396229)
+
 
   - **Optie 2: Directe Uitrol**
     - Als je de update niet eerst wilt testen, kun je direct naar de formele release gaan.
