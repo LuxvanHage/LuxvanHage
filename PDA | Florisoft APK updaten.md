@@ -45,6 +45,16 @@
       
 ![image](https://github.com/user-attachments/assets/131a2e8a-2711-42bb-93aa-a013aaad161d)
 
+### Stap 7: Bevestig de geselecteerde groepen
+- Klik op 'OK' in de melding die verschijnt om te bevestigen dat alle toegewezen groepen geselecteerd zijn voor de update.
 
+![Stap 7](https://github.com/user-attachments/assets/c870d550-9529-4370-bcb8-6d8f2db73de5)
 
+### Stap 8: Druk op 'Release'
+- Klik op 'Release' om de update uit te rollen naar de geselecteerde apparaten en groepen.
 
+![Stap 8](https://github.com/user-attachments/assets/f08c5a22-e3c6-424f-b123-24c975674158)
+
+Nu worden de apparaten geüpdatet. Je kunt de voortgang van de update volgen via het scherm hieronder:
+
+![Stap 8.1](https://github.com/user-attachments/assets/c82a9f19-1ce9-45e2-8e8f-d2c16839143d)
