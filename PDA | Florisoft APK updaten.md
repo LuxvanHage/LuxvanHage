@@ -27,9 +27,21 @@
 ![Stap 5.2](https://github.com/user-attachments/assets/a6ee7189-2b06-454e-9787-6a1abec34752)
 
 ### Stap 6: Kies wie de update krijgt
-![Stap 6.1](https://github.com/user-attachments/assets/cba53eea-04a1-46be-9977-f4ced849d9ab)
+- In dit scherm kun je kiezen wie de update zal ontvangen. Er zijn twee opties:
 
+  - **Optie 1: Testfase**
+    - Voeg specifieke gebruikers, groepen of apparaten toe om de update eerst in een testfase te plaatsen. Dit is handig als je de update wilt testen met een beperkte groep gebruikers voordat je deze breder uitrolt.
+    - Als je gebruikers of groepen toevoegt, klik dan op 'Test Release' om de update in de testfase te lanceren.
+
+  - **Optie 2: Directe Uitrol**
+    - Als je de update niet eerst wilt testen, kun je direct naar de formele release gaan.
+    - Laat het gebruikers- en groepenveld leeg en klik onderaan het scherm op 'Go Formal Release' om de update naar alle apparaten uit te rollen.
+
+![Stap 6.1](https://github.com/user-attachments/assets/cba53eea-04a1-46be-9977-f4ced849d9ab)
 ![Stap 6.2](https://github.com/user-attachments/assets/f535ac1d-2b99-4019-aa18-26888991bde8)
+
 
 ### Stap 7: Druk rechtsonder op 'Go Formal Release'
 ![image](https://github.com/user-attachments/assets/d97c0ff0-e1c0-4592-8ad3-0107f74ddc99)
+
+
