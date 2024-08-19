@@ -1,8 +1,12 @@
 # **Uitleg over de Job Agent voor Printerzaken en Herstarten**
 
-De **Job Agent** is een speciaal proces dat gezamenlijk is ontwikkeld door **Florisoft** en **FTG** voor het beheren van printertaken binnen FTG. Deze agent wordt gebruikt om de status en prestaties van printers nauwkeurig te monitoren en beheren. Als de Job Agent onverwacht stopt, kun je deze handmatig opnieuw starten door de volgende stappen te volgen.
+De **Job Agent** is een virtuele server die alle printers in het systeem verbindt, waardoor alles snel en gemakkelijk te gebruiken is. Dit systeem zorgt ervoor dat alle printertaken centraal worden beheerd en dat de status van elke printer eenvoudig in de gaten kan worden gehouden. Het biedt een handig overzicht van alle aangesloten printers, zodat eventuele problemen snel kunnen worden geïdentificeerd en opgelost.
 
-## **Hoe de Job Agent voor Printerzaken Te Starten**
+Deze **Job Agent** is ontwikkeld in samenwerking tussen **Florisoft** en **FTG** en speelt een cruciale rol in het soepel laten verlopen van de printerprocessen binnen het bedrijf.
+
+## **Hoe de Job Agent voor Printerzaken Te Herstarten**
+
+Als de Job Agent onverwacht stopt, kun je deze handmatig opnieuw starten door de volgende stappen te volgen:
 
 ### **Stap 1: Open Remote Desktop (RDP)**
 Open het Remote Desktop Protocol (RDP) om verbinding te maken met de virtuele server waarop de Job Agent draait.
