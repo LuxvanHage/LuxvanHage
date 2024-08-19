@@ -2,8 +2,6 @@
 
 De **Job Agent** is een applicatie die op een virtuele server draait en is ontworpen om te controleren welke printers beschikbaar zijn binnen het van der Plas-systeem. Deze applicatie moet altijd actief zijn om ervoor te zorgen dat de beschikbaarheid en status van de printers correct worden gemonitord. 
 
-Hoewel de Job Agent geen printerbeheer uitvoert, speelt het een belangrijke rol in het garanderen dat alle printers in het netwerk beschikbaar zijn voor gebruik en dat eventuele problemen met de printerverbindingen snel kunnen worden opgespoord.
-
 ## **Hoe de Job Agent voor Printerzaken Te Herstarten**
 
 Als de Job Agent onverwacht stopt, kun je deze handmatig opnieuw starten door de volgende stappen te volgen:
