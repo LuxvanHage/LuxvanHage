@@ -23,4 +23,3 @@ Zodra je bent ingelogd, zie je het venster van **Florisoft Jobs**. Dit venster t
 
 ![Florisoft Jobs](https://github.com/user-attachments/assets/3fe889a9-51ba-4cef-a831-d976a5d71eb1)
 
-Als de Job Agent niet actief is, kun je deze herstarten door de juiste service in Windows opnieuw te starten of door de Florisoft-applicatie te herstarten.
