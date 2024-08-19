@@ -1,33 +1,22 @@
-# **Leverancier Toevoegen in Florisoft**
+# **Uitleg over Job Agent en Herstarten**
 
-Volg de onderstaande stappen om een leverancier zo goed mogelijk toe te voegen in Florisoft.
+De **Job Agent** is een proces dat op de virtuele server draait en zorgt voor het beheer van verschillende taken en processen binnen Florisoft. Dit omvat onder andere het monitoren van de status van printers en andere systeemprocessen. Als de Job Agent onverwacht stopt, kun je deze handmatig opnieuw starten door de volgende stappen te volgen.
 
-## **Stappenplan**
+## **Hoe de Job Agent Te Starten**
 
-### **Stap 1: Open Florisoft**
-Start de Florisoft-applicatie op je computer.
+### **Stap 1: Open Remote Desktop (RDP)**
+Open het Remote Desktop Protocol (RDP) om verbinding te maken met de virtuele server.
 
-![image](https://github.com/user-attachments/assets/17033e0b-88e6-441e-9555-ad8c3da37adc)
+![RDP openen](https://github.com/user-attachments/assets/f509b952-66f7-4123-8cf4-aa944a197dcf)
 
-### **Stap 2: Open Constanten**
-Klik linksboven in het scherm op **"Constanten"** om het constantenmenu te openen.
+### **Stap 2: Vul de inloggegevens in**
+Voer je inloggegevens in voor de virtuele server en klik op **Connect** om verbinding te maken.
 
-![image](https://github.com/user-attachments/assets/ca77c584-83c3-447f-8583-d5efaf7baa6e)
+![Inloggegevens invoeren](https://github.com/user-attachments/assets/085d1b62-1b2e-4e7a-9b9c-36600330e5f1)
 
-### **Stap 3: Navigeer naar Leveranciersgegevens**
-Ga naar het menu **"Organen"** en selecteer **"Leveranciersgegevens"**. Klik vervolgens op **"Leveranciers"**.
-![image](https://github.com/user-attachments/assets/83474173-2675-416d-8c3b-ce931af8fd60)
+### **Stap 3: Controleer de Job Agent status**
+Zodra je bent ingelogd, zie je het venster van **Florisoft Jobs** met alle printers en hun statussen. Hier kun je controleren of de Job Agent actief is.
 
-### **Stap 4: Voeg een Nieuwe Leverancier Toe**
-Klik op de knop om een **nieuwe leverancier toe te voegen** (deze knop heeft meestal een plus- of toevoegsymbool).
-![image](https://github.com/user-attachments/assets/f0367847-60f6-44a0-ab64-c158ad96a9d3)
+![Florisoft Jobs](https://github.com/user-attachments/assets/3fe889a9-51ba-4cef-a831-d976a5d71eb1)
 
-### **Stap 5: Vul de Gegevens In**
-Voer de volgende gegevens in:
-![image](https://github.com/user-attachments/assets/53854d41-a0db-4fdd-a0e7-c98a3f5de9ac)
-
-- **Leverancierscode (Lev.code):** Dit is het klantnummer van RFH.
-- **Overige informatie:** Vul zoveel mogelijk gegevens in bij de andere velden van de leverancier.
-
----
-
+Als de Job Agent niet actief is, kun je deze herstarten door de juiste service in Windows opnieuw te starten of door de Florisoft-applicatie te herstarten.
