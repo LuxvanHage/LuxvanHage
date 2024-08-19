@@ -1,8 +1,8 @@
 # **Uitleg over de Job Agent voor Printerzaken en Herstarten**
 
-De **Job Agent** is een virtuele server die alle printers in het systeem verbindt, waardoor alles snel en gemakkelijk te gebruiken is. Dit systeem zorgt ervoor dat alle printertaken centraal worden beheerd en dat de status van elke printer eenvoudig in de gaten kan worden gehouden. Het biedt een handig overzicht van alle aangesloten printers, zodat eventuele problemen snel kunnen worden geïdentificeerd en opgelost.
+De **Job Agent** is een applicatie die op een virtuele server draait en is ontworpen om te controleren welke printers beschikbaar zijn binnen het van der Plas-systeem. Deze applicatie moet altijd actief zijn om ervoor te zorgen dat de beschikbaarheid en status van de printers correct worden gemonitord. 
 
-Deze **Job Agent** is ontwikkeld in samenwerking tussen **Florisoft** en **FTG** en speelt een cruciale rol in het soepel laten verlopen van de printerprocessen binnen het bedrijf.
+Hoewel de Job Agent geen printerbeheer uitvoert, speelt het een belangrijke rol in het garanderen dat alle printers in het netwerk beschikbaar zijn voor gebruik en dat eventuele problemen met de printerverbindingen snel kunnen worden opgespoord.
 
 ## **Hoe de Job Agent voor Printerzaken Te Herstarten**
 
@@ -19,7 +19,8 @@ Voer je inloggegevens in voor de virtuele server en klik op **Connect** om verbi
 ![Inloggegevens invoeren](https://github.com/user-attachments/assets/085d1b62-1b2e-4e7a-9b9c-36600330e5f1)
 
 ### **Stap 3: Controleer de Job Agent status**
-Zodra je bent ingelogd, zie je het venster van **Florisoft Jobs**. Dit venster toont alle printers en hun huidige statussen. Hier kun je controleren of de Job Agent actief is en of de printertaken correct worden uitgevoerd.
+Zodra je bent ingelogd, zie je het venster van **Florisoft Jobs**. Dit venster toont alle printers en hun huidige statussen. Hier kun je controleren of de Job Agent actief is en of alle printers correct worden weergegeven.
 
 ![Florisoft Jobs](https://github.com/user-attachments/assets/3fe889a9-51ba-4cef-a831-d976a5d71eb1)
+
 
