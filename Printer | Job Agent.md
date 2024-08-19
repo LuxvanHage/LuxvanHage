@@ -1,6 +1,6 @@
 # **Uitleg over de Job Agent voor Printerzaken en Herstarten**
 
-De **Job Agent** is een applicatie die op een virtuele server draait en is ontworpen om te controleren welke printers beschikbaar zijn binnen het FTG-systeem. Deze applicatie moet altijd actief zijn om ervoor te zorgen dat de beschikbaarheid en status van de printers correct worden gemonitord. 
+De **Job Agent** is een applicatie die op een virtuele server draait en is ontworpen om te controleren welke printers beschikbaar zijn binnen het FTG-systeem met combinatie van het florisoft-systeem. Deze applicatie moet altijd actief zijn om ervoor te zorgen dat de beschikbaarheid en status van de printers correct worden gemonitord. 
 
 ## **Hoe de Job Agent voor Printerzaken Te Herstarten**
 
