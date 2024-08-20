@@ -22,9 +22,13 @@ Je ziet nu een lijst met alle artikelen in de geselecteerde voorraad.
 
 ![Artikellijst bekijken](https://github.com/user-attachments/assets/b1693bff-d8b5-4341-884f-dac9f342d110)
 
-### **Stap 5: Artikel verdelen**
-Seleteerd het artikelen en vul vervolegens de onderstaande informatie in 'Debnr' en 'Stuks'.
+tap 5: Artikel verdelen
+Seleteerd het artikelen en vul vervolgens de onderstaande informatie in 'Debnr', 'Stuks' en 'Order'.
+
+Hoe weet ik welk ordernummer ik heb? je ordernummer wordt opgebouwd als laatste 2 cijfers van jaar+maand+dag bijv 240820
 
 ![image](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
 
 ![image](https://github.com/user-attachments/assets/0baaebfb-5895-4083-a8f6-27f9751d87e1)
+
+stap 6, 
