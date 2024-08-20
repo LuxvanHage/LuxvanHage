@@ -40,9 +40,24 @@ Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (or
 ![Andere artikelen toevoegen](https://github.com/user-attachments/assets/e1e3277a-8648-4d8f-812b-25d5f157be5d)
 
 ### **Let Op: Test Voorraad**
-De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen. Je verdeling zal met de timer worden doorgeboekt.
+De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen. De verdeling zal automatisch met de timer worden doorgeboekt.
 
 ### **Stap 7: Handmatig Doorboeken voor Test Voorraad**
 Als je werkt met een testvoorraad zoals STRIPE, moet je de verdelingen handmatig doorboeken. Druk op **F2** en klik vervolgens op **OK** om de verdeling handmatig door te boeken.
 
 ![F2 en OK](https://github.com/user-attachments/assets/c94fca8d-babc-4f7c-acbc-60e0ccc8f278)
+
+### **Stap 8: Controleer of de Factuur is Doorgeboekt**
+Om te controleren of de factuur is doorgeboekt, volg je deze stappen:
+
+1. Ga naar **Facturen**.
+
+   ![Facturen openen](https://github.com/user-attachments/assets/787b0dc7-6487-40a1-a0dd-6508542ea3b7)
+
+2. Druk op **Ctrl + F** om het zoekvenster te openen. Zorg ervoor dat je zoekt op de kolom **Debiteur Nummer** en druk op **Enter**.
+
+   ![Zoeken op Debiteur Nummer](https://github.com/user-attachments/assets/8e2a60a8-5fab-4a5a-816a-2ce593469944)
+
+3. Je zou nu je factuur moeten zien.
+
+   ![Factuur bekijken](https://github.com/user-attachments/assets/bf07d35f-2e10-4392-abff-6c9b870cbea3)
