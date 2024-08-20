@@ -39,9 +39,10 @@ Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (or
 ![Opslaan en toevoegen](https://github.com/user-attachments/assets/b97fce5a-0d15-4231-ae37-647b12ed324b)
 ![Andere artikelen toevoegen](https://github.com/user-attachments/assets/e1e3277a-8648-4d8f-812b-25d5f157be5d)
 
-### **Stap 7: Timer Proces Voor Test Voorraad**
-Er gaat een timer proces lopen om de voorraadverdelen door te voeren. Voor testvoorraden (zoals STRIPE) geldt geen timer, omdat dit alleen voor applicatiebeheer is. Deze stappen zijn voor gebruikers die in de STRIPE testvoorraad werken.
+### **Let Op: Test Voorraad**
+De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen.
 
-Druk op **F2** en vervolgens op **OK** (als je vier artikelsoorten hebt verdeeld).
+### **Stap 7: Handmatig Doorboeken voor Test Voorraad**
+Als je werkt met een testvoorraad zoals STRIPE, moet je de verdelingen handmatig doorboeken. Druk op **F2** en klik vervolgens op **OK** om de verdeling handmatig door te boeken.
 
 ![F2 en OK](https://github.com/user-attachments/assets/c94fca8d-babc-4f7c-acbc-60e0ccc8f278)
