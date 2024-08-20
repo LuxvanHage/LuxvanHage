@@ -31,7 +31,7 @@ Selecteer de artikelen en vul de benodigde informatie in:
 **Hoe weet ik welk ordernummer ik heb?** Je ordernummer wordt opgebouwd uit de laatste twee cijfers van het jaar, gevolgd door de maand en dag (bijv. 240820).
 
 ![Ordernummer voorbeeld](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
-![Ordernummer invoeren](https://github.com/user-attachments/assets/0baaebfb-5895-4083-a8f6-27f9751d87e1)
+![image](https://github.com/user-attachments/assets/f71a19b5-cd91-4e7e-a0db-e13d497dd534)
 
 ### **Stap 6: Opslaan en Toevoegen van Artikelen**
 Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (ordernummer kan verschillen). Druk daarna op **Opslaan**. Je kunt ook andere artikelen toevoegen en vervolgens weer op **Opslaan** drukken.
@@ -41,6 +41,7 @@ Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (or
 
 ### **Let Op: Test Voorraad**
 De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen. De verdeling zal automatisch met de timer worden doorgeboekt.
+
 
 ### **Stap 7: Handmatig Doorboeken voor Test Voorraad**
 Als je werkt met een testvoorraad zoals STRIPE, moet je de verdelingen handmatig doorboeken. Druk op **F2** en klik vervolgens op **OK** om de verdeling handmatig door te boeken.
