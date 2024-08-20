@@ -40,7 +40,7 @@ Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (or
 ![Andere artikelen toevoegen](https://github.com/user-attachments/assets/e1e3277a-8648-4d8f-812b-25d5f157be5d)
 
 ### **Let Op: Test Voorraad**
-De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen.
+De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen. Je verdeling zal met de timer worden doorgeboekt.
 
 ### **Stap 7: Handmatig Doorboeken voor Test Voorraad**
 Als je werkt met een testvoorraad zoals STRIPE, moet je de verdelingen handmatig doorboeken. Druk op **F2** en klik vervolgens op **OK** om de verdeling handmatig door te boeken.
