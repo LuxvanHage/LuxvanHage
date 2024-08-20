@@ -21,3 +21,10 @@ Zoek naar de voorraad waarin je verdelingen wilt maken en selecteer deze.
 Je ziet nu een lijst met alle artikelen in de geselecteerde voorraad.
 
 ![Artikellijst bekijken](https://github.com/user-attachments/assets/b1693bff-d8b5-4341-884f-dac9f342d110)
+
+### **Stap 5: Artikel verdelen**
+Seleteerd het artikelen en vul vervolegens de onderstaande informatie in 'Debnr' en 'Stuks'.
+
+![image](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
+
+![image](https://github.com/user-attachments/assets/0baaebfb-5895-4083-a8f6-27f9751d87e1)
