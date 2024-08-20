@@ -1,4 +1,4 @@
-# **Instructies voor Voorraadbeheer in Florisoft**
+# **Instructies voor voorraad verdelen in Florisoft**
 
 Volg de onderstaande stappen om verdelingen te maken binnen je voorraad in Florisoft.
 
