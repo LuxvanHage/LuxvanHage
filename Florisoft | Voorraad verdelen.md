@@ -1,4 +1,4 @@
-# **Instructies voor voorraad verdelen in Florisoft**
+# **Instructies voor Voorraad Verdelen in Florisoft**
 
 Volg de onderstaande stappen om verdelingen te maken binnen je voorraad in Florisoft.
 
@@ -12,7 +12,7 @@ Navigeer naar het menu **Voorraaden** om je voorraad te beheren.
 
 ![Ga naar Voorraaden](https://github.com/user-attachments/assets/e09b1b81-cff3-44be-8a8a-656e1c568852)
 
-### **Stap 3: Selecteer de gewenste Voorraad**
+### **Stap 3: Selecteer de Gewenste Voorraad**
 Zoek naar de voorraad waarin je verdelingen wilt maken en selecteer deze.
 
 ![Selecteer de voorraad](https://github.com/user-attachments/assets/b3ba5d12-39db-45d3-bd3d-cd7c973e108b)
@@ -22,13 +22,26 @@ Je ziet nu een lijst met alle artikelen in de geselecteerde voorraad.
 
 ![Artikellijst bekijken](https://github.com/user-attachments/assets/b1693bff-d8b5-4341-884f-dac9f342d110)
 
-tap 5: Artikel verdelen
-Seleteerd het artikelen en vul vervolgens de onderstaande informatie in 'Debnr', 'Stuks' en 'Order'.
+### **Stap 5: Artikel Verdelen**
+Selecteer de artikelen en vul de benodigde informatie in:
+- **Debnr**: Debiteurnummer
+- **Stuks**: Aantal stuks
+- **Order**: Ordernummer
 
-Hoe weet ik welk ordernummer ik heb? je ordernummer wordt opgebouwd als laatste 2 cijfers van jaar+maand+dag bijv 240820
+**Hoe weet ik welk ordernummer ik heb?** Je ordernummer wordt opgebouwd uit de laatste twee cijfers van het jaar, gevolgd door de maand en dag (bijv. 240820).
 
-![image](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
+![Ordernummer voorbeeld](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
+![Ordernummer invoeren](https://github.com/user-attachments/assets/0baaebfb-5895-4083-a8f6-27f9751d87e1)
 
-![image](https://github.com/user-attachments/assets/0baaebfb-5895-4083-a8f6-27f9751d87e1)
+### **Stap 6: Opslaan en Toevoegen van Artikelen**
+Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (ordernummer kan verschillen). Druk daarna op **Opslaan**. Je kunt ook andere artikelen toevoegen en vervolgens weer op **Opslaan** drukken.
 
-stap 6, 
+![Opslaan en toevoegen](https://github.com/user-attachments/assets/b97fce5a-0d15-4231-ae37-647b12ed324b)
+![Andere artikelen toevoegen](https://github.com/user-attachments/assets/e1e3277a-8648-4d8f-812b-25d5f157be5d)
+
+### **Stap 7: Timer Proces Voor Test Voorraad**
+Er gaat een timer proces lopen om de voorraadverdelen door te voeren. Voor testvoorraden (zoals STRIPE) geldt geen timer, omdat dit alleen voor applicatiebeheer is. Deze stappen zijn voor gebruikers die in de STRIPE testvoorraad werken.
+
+Druk op **F2** en vervolgens op **OK** (als je vier artikelsoorten hebt verdeeld).
+
+![F2 en OK](https://github.com/user-attachments/assets/c94fca8d-babc-4f7c-acbc-60e0ccc8f278)
