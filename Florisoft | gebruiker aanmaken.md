@@ -1,11 +1,18 @@
 Florisoft gebruiker aanmaken + overnemen
 
 stap 1 open florisoft
+![image](https://github.com/user-attachments/assets/3479f6b1-8e06-4459-bfe8-f0da0ae465ad)
 
 stap 2 ga naar contanten
-SYSTEM->USERS->Systeemgebruikers
+![image](https://github.com/user-attachments/assets/c083b65c-119d-4157-88d4-126cab806065)
 
-druk op dit icoontje
+SYSTEM->USERS->Systeemgebruikers
+![image](https://github.com/user-attachments/assets/a27d1173-2a56-4fbf-8f33-94aefd34911c)
+
+
+druk op dit icoontje dan maak je een nieuwe systeemgebruiker aan
+![image](https://github.com/user-attachments/assets/e40a5420-0707-4d96-90d0-c0ee1e6748d9)
+
 
 Verzin een UserId (naam die bij de gebruiker hoort)
 
