@@ -33,6 +33,6 @@ Navigeer naar **Tekstcorrectie**.
 ![Tekstcorrectie](https://github.com/user-attachments/assets/3334ab57-85eb-4cb0-b6aa-792bad87180d)
 
 ### **Stap 7: Zet Suggesties voor Volgend Woord Uit**
-Schakel de optie **Suggesties voor volgend woord** uit.
+Schakel de optie Suggesties voor volgend woord **uit**.
 
 ![Suggesties voor Volgend Woord Uit](https://github.com/user-attachments/assets/1c1940a3-281a-4f84-8434-e7c5889a1118)
