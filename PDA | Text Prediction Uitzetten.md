@@ -35,4 +35,5 @@ Navigeer naar **Tekstcorrectie**.
 ### **Stap 7: Zet Suggesties voor Volgend Woord Uit**
 Schakel de optie 'Suggesties voor volgend woord' **uit**.
 
-![Suggesties voor Volgend Woord Uit](https://github.com/user-attachments/assets/1c1940a3-281a-4f84-8434-e7c5889a1118)
+![Suggesties voor Volgend Woord Uit](https://github.com/user-attachments/assets/c829cded-bc0b-4156-929d-621d72cfdc2d)
+
