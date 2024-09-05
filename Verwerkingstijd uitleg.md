@@ -21,8 +21,7 @@ Dit is iets wat de kweker normaal meestuurt over de voorraadkoppel, dus dit zit 
 
 Hieronder zie je de standaard verwerkingstijdenschema’s. In de omschrijving staat vermeld voor welke dagen dit geldt. Topdag is Maandag/Woensdag. Daldag is Dinsdag/Donderdag/Vrijdag.
 
-![image](https://github.com/user-attachments/assets/80c23232-8d6d-44e4-819c-e0cf3a7c78ba)  
-![image](https://github.com/user-attachments/assets/66adbb53-94d3-46db-b317-9eb5d7921d23)
+![image](https://github.com/user-attachments/assets/80c23232-8d6d-44e4-819c-e0cf3a7c78ba)  ![image](https://github.com/user-attachments/assets/66adbb53-94d3-46db-b317-9eb5d7921d23)
 
 In de afbeeldingen hiervoor zag je dat er voor specifieke stappen verwerkingstijd gerekend wordt. Hieronder per stap uitgelegd wanneer deze meegenomen wordt als verwerkingstijd:
 
