@@ -4,8 +4,8 @@ Aan een partij zit een ETELDAT (estimated delivery date) gekoppeld. Als je hierb
 
 | Partij  | ETELDAT                         | Verwerkingstijd           | Vertrektijd Klant      | Resultaat               |
 |---------|----------------------------------|---------------------------|------------------------|-------------------------|
-| Partij X| 05-09-2024 11:00:00              | 3,5 uur (05-09-2024)      | 13:00 (05-09-2024)     | <span style="color:red">Partij niet meer beschikbaar</span> |
-| Partij Y| 06-09-2024 11:00:00              | 1 uur (06-09-2024)        | 13:00 (06-09-2024)     | <span style="color:green">Partij beschikbaar</span>       |
+| Partij X| 05-09-2024 11:00:00              | 3,5 uur (05-09-2024)      | 13:00 (05-09-2024)     | **_Partij niet meer beschikbaar_** |
+| Partij Y| 06-09-2024 11:00:00              | 1 uur (06-09-2024)        | 13:00 (06-09-2024)     | **_Partij beschikbaar_**       |
 
 
 ## Vertrektijd
