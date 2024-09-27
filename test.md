@@ -93,3 +93,5 @@ Druk dan op F3 om te zoeken.
 
 Zoek de instelling 'artikelOpslagenzoekenAdv' en zet deze op 'True'.  
 ![image](https://github.com/user-attachments/assets/a9856306-b85e-48e7-8a3d-6e873b7319f4)
+
+Alles staat nu goed en de artikelen zullen nu ook gebruik maken van de gegeven precentages.
