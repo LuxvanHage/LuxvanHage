@@ -1,6 +1,6 @@
-# Artikelgroep op sortingskenmerken
+# Artikelgroep op sortingskenmerken 
 
-Volg de stappen om artikelen van verschillende potmaat of steellengte een andere prijspercentage te geven, zodat een grotere maat bijvoorbeeld 12% meer zal kosten dan de originele prijs.
+Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
 ### STAP 1: Open Florisoft
 ![image](https://github.com/user-attachments/assets/6acc4470-4a5d-4ac1-a424-798553401663)
@@ -8,7 +8,7 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een andere
 ### STAP 2: Open de Voorraad
 ![image](https://github.com/user-attachments/assets/64f8aadb-4898-4e54-8863-a05e815d837d)
 
-### STAP 3: Open de Voorraad met het product dat je wilt aanpassen
+### STAP 3: Open de voorraad met het product dat je wilt aanpassen
 ![image](https://github.com/user-attachments/assets/0a723830-b8af-4fae-ab60-4ed223d152dc)
 
 ### STAP 4: Selecteer het artikel dat je wilt aanpassen
@@ -23,7 +23,7 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een andere
 ### STAP 7: Je komt in een nieuw venster, klik dan op dit knopje
 ![image](https://github.com/user-attachments/assets/f937fbaf-02b4-4cbc-93b7-c362eb969827)
 
-### STAP 8: Hier kun je het percentage aanpassen bij een lengte. In dit voorbeeld hebben wij 12% op basis van de prijs gebruikt.
+### STAP 8: Hier kun je het percentage aanpassen bij een lengte. In dit voorbeeld hebben we 12% op basis van de prijs gebruikt.
 ![image](https://github.com/user-attachments/assets/125049ae-6bcd-4ee3-95c9-1f222177809a)
 
 ### STAP 9: Vergeet niet je artikel te koppelen aan een DebGrp (DebiteurGroep). In dit voorbeeld hebben we '11' gebruikt.
@@ -31,7 +31,7 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een andere
 
 ---
 
-Nu hebben we de artikelen aangepast, en het is tijd om de debiteur correct in te stellen zodat hij voor andere maten of lengtes een extra percentage moet betalen:
+Nu hebben we de artikelen aangepast, en het is tijd om de debiteur goed in te stellen, zodat hij voor andere maten of lengtes een extra percentage moet betalen:
 
 ### STAP 10: Ga naar Constanten
 ![image](https://github.com/user-attachments/assets/413886e8-0ad0-4b31-b919-a48d83d677c6)
@@ -57,13 +57,13 @@ Druk nu op 'Opslag toevoegen'. Er zal een venster openen.
 In dit venster druk je op 'Artikel(groep)Opslag'.
 ![image](https://github.com/user-attachments/assets/951ce4f5-5d4b-40b3-b52a-2c5f56a14767)
 
-Zodra je terugkeert naar het vorige venster, controleer of alles correct is ingesteld. Je wordt automatisch teruggebracht naar het vorige venster.
+Zodra je terugkeert naar het vorige venster, controleer of alles correct is ingesteld. Je wordt automatisch naar het vorige venster teruggebracht.
 ![image](https://github.com/user-attachments/assets/e39223c5-2b5c-4744-a020-1e1da31a78c3)
 
 We willen de instelling 'Afronden: __ (decimalen)' op 2 zetten.
 ![image](https://github.com/user-attachments/assets/711c1bf0-7b62-4caa-aefd-0de6869ed9d2)
 
-### STAP 15: Klik op '3Debiteur voorraadartikelgroepopslag' en gebruik de knop 'Stap omlaag' tot je bij regel 8 bent, zodat '8Debiteur voorraadartikelgroepopslag' wordt weergegeven.
+### STAP 15: Zet de kolom op regel 8. Klik op '3Debiteur voorraadartikelgroepopslag' en gebruik de knop 'Stap omlaag' tot je bij '8Debiteur voorraadartikelgroepopslag' bent.
 ![image](https://github.com/user-attachments/assets/17006819-35d3-4e8e-bb64-ba09470befb0)
 
 We gaan nu weer terug naar de debiteur en gaan naar Internet > Internet toegang. Klik op 'Toegankelijke voorraden'.
