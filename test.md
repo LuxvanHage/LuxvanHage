@@ -14,7 +14,7 @@ stap 3 open de voorraad met het product die je wil aanpassen
 ![image](https://github.com/user-attachments/assets/0a723830-b8af-4fae-ab60-4ed223d152dc)
 
 
-Stap 4 selecteer het artikel dat je aanpassen
+Stap 4 selecteer het artikel dat je wil aanpassen
 ![image](https://github.com/user-attachments/assets/05a1dbc5-c971-43f4-a002-3eaf4b2ca4b0)
 
 
@@ -36,7 +36,6 @@ stap 8 Hier zal je nu de lengte bij 'S1' zien en de extra kosten in precentage z
 
 stap 9 Vergeet je artikel niet te koppelen aan een DebGrp (DebiteurGroep)
 ![image](https://github.com/user-attachments/assets/ef637e8c-57e5-4170-a90c-1196bbf53560)
-
 
 
 Nu hebben we de Artikelen aangepast en is het tijd om de debiteur goed te zetten zodat hij voor andere maten of lengtes een extra precentage moet betalen:
@@ -69,8 +68,30 @@ Druk nu op 'Opslag toevoegen' er zal een venster openen.
 Op dit venster druk je op de 'Artikel(groep)Opslag' 
 ![image](https://github.com/user-attachments/assets/951ce4f5-5d4b-40b3-b52a-2c5f56a14767)
 
-Als goed is zal je uit dit venster gehaald worden en zal dit er moeten staan. We willen 'Afronden: __ (decimalen)' op 2 zetten
+Als goed is zal je uit dit venster gehaald worden en zal dit er moeten staan. 
 ![image](https://github.com/user-attachments/assets/e39223c5-2b5c-4744-a020-1e1da31a78c3)
+
+We willen 'Afronden: __ (decimalen)' op 2 zetten
+![image](https://github.com/user-attachments/assets/711c1bf0-7b62-4caa-aefd-0de6869ed9d2)
+
+Druk op de '3Debiteur voorraadartikelgroepopslag' en druk bovenin op 'stap omlaag' tot hij op '8Debiteur voorraadartikelgroepopslag' dus regel 8
+![image](https://github.com/user-attachments/assets/17006819-35d3-4e8e-bb64-ba09470befb0)
+
+We gaan weer terug naar de dibiteur en we gaan naar internet>internet toegang. en we drukken op 'Toegankelijke voorraden'.
+![image](https://github.com/user-attachments/assets/5d87b2ae-135a-45fe-9079-15e4a12f8449)
+
+Zoek de voorraad waarin de artikelen staan die je wil aanpassen en vink het tabel 'O' aan.stripe
+![image](https://github.com/user-attachments/assets/31bb13b6-0653-452e-ae14-58ebb62dc416)
+
+Nu gaan we terug naar de debiteur en zoeken we op Opslagen>Opslagen
+![image](https://github.com/user-attachments/assets/00f6343a-790e-407a-b85c-c22f1c21668a)
+
+Het laatste wat we moeten doen is de systeeminstelling ArtikelOpslagenzoekenAdv aanzetten.
+ga naar het hoofdscherm van florisoft en druk boven op 'Onderhoud'
+![image](https://github.com/user-attachments/assets/5615a040-ec5b-40b8-87a0-739c4c1f5c3e)
+
+druk nu op 'Setup system' er al een venster verschijnen.
+![image](https://github.com/user-attachments/assets/ef5a58a6-3bb4-4470-8a06-a4ad3d6f419d)
 
 
 
