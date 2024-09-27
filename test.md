@@ -1,93 +1,95 @@
-Artikelgroep op sortingskenmerken
+# Artikelgroep op sortingskenmerken
 
-Volg de stappen om artikelen van verschillende potmaat of steellengte andere prijs % te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
+Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
-STAP 1: open Florisoft
+**STAP 1:** Open Florisoft  
 ![image](https://github.com/user-attachments/assets/6acc4470-4a5d-4ac1-a424-798553401663)
 
-STAP 2: Open de voorraad
+**STAP 2:** Open de voorraad  
 ![image](https://github.com/user-attachments/assets/64f8aadb-4898-4e54-8863-a05e815d837d)
 
-STAP 3: Open de voorraad met het product dat je wilt aanpassen
+**STAP 3:** Open de voorraad met het product dat je wilt aanpassen  
 ![image](https://github.com/user-attachments/assets/0a723830-b8af-4fae-ab60-4ed223d152dc)
 
-STAP 4: Selecteer het artikel dat je wilt aanpassen
+**STAP 4:** Selecteer het artikel dat je wilt aanpassen  
 ![image](https://github.com/user-attachments/assets/05a1dbc5-c971-43f4-a002-3eaf4b2ca4b0)
 
-STAP 5: Klik met de rechtermuisknop en selecteer 'Open artikel'
+**STAP 5:** Druk op de rechter muisknop en selecteer 'Open artikel'  
 ![image](https://github.com/user-attachments/assets/244bcb63-a5c9-4d6b-9fac-f079a61463e3)
 
-STAP 6: Klik op het pijltje in het venster hieronder
+**STAP 6:** Druk dan op het pijltje hier weergegeven:  
 ![image](https://github.com/user-attachments/assets/0c7770c4-ac21-4b44-877a-0214272a6c69)
 
-STAP 7: Je komt in een nieuw venster en druk dan op dit knopje
+**STAP 7:** Je komt in een nieuw venster en druk dan op dit knopje  
 ![image](https://github.com/user-attachments/assets/f937fbaf-02b4-4cbc-93b7-c362eb969827)
 
-STAP 8: Hier zal je nu de lengte bij 'S1' zien en de extra kosten in percentage zien van de originele prijs in 'Perc.Opslag'. In dit voorbeeld hebben we 12% op basis van de prijs gebruikt.
+**STAP 8:** Hier zie je de lengte bij 'S1' en de extra kosten in percentage van de originele prijs in 'Perc.Opslag'. In dit voorbeeld is 12% gebruikt.  
 ![image](https://github.com/user-attachments/assets/125049ae-6bcd-4ee3-95c9-1f222177809a)
 
-STAP 9: Vergeet je artikel niet te koppelen aan een DebGrp (DebiteurGroep). In dit voorbeeld hebben we '11' gebruikt.
+**STAP 9:** Vergeet je artikel niet te koppelen aan een DebGrp (DebiteurGroep). In dit voorbeeld hebben we '11' gebruikt.  
 ![image](https://github.com/user-attachments/assets/ef637e8c-57e5-4170-a90c-1196bbf53560)
 
-Nu hebben we de artikelen aangepast, en het is tijd om de debiteur goed in te stellen, zodat hij voor andere maten of lengtes een extra percentage moet betalen:
+---
 
-STAP 10: Ga naar constanten
+Nu hebben we de artikelen aangepast en is het tijd om de debiteur zo in te stellen dat er voor andere maten of lengtes een extra percentage moet worden betaald.
+
+**STAP 10:** Ga naar Constanten  
 ![image](https://github.com/user-attachments/assets/413886e8-0ad0-4b31-b919-a48d83d677c6)
 
-STAP 11: Ga naar Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur
+**STAP 11:** Ga naar Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur  
 ![image](https://github.com/user-attachments/assets/d7c5fa08-275f-4e40-b59f-64c0e41be99d)
 
-STAP 12: Als je een debiteur hebt geopend, ga dan naar Financieel > Prijzen
+**STAP 12:** Als je een debiteur hebt geopend, ga dan naar Financieel > Prijzen  
 ![image](https://github.com/user-attachments/assets/d4075e30-0445-48b8-801a-e3ad765c520c)
 
-STAP 13: Pas 'Opslagcategorie per VBN-artikelgroep' aan zodat het overeenkomt met stap 9. In dit voorbeeld hebben we ook '11' gebruikt, maar dit kan variëren per situatie.
+**STAP 13:** Pas 'Opslagcategorie per VBN-artikelgroep' aan zodat het gelijk staat aan stap 9. In dit voorbeeld is dat '11', maar dit is afhankelijk van de gekozen instelling.  
 ![image](https://github.com/user-attachments/assets/09617010-768d-42d5-949f-637c911cf127)
 
-STAP 14: We gaan nu de 'Prijsconfiguratie' goed instellen. Druk op het pijltje, aangegeven met rood, om een venster te openen.
+**STAP 14:** We gaan nu de 'Prijsconfiguratie' goed instellen. Druk op het pijltje aangegeven met rood om een venster te openen.  
 ![image](https://github.com/user-attachments/assets/12032635-e26e-41eb-a5df-ea721c9ef165)
 
-Druk vervolgens op 'Stappen instellen'. Er zal een venster openen.
+Druk vervolgens op 'Stappen instellen'. Er zal een venster openen.  
 ![image](https://github.com/user-attachments/assets/9a4bcab1-514d-4609-a4bd-d583f0f3d581)
 
-Druk nu op 'Opslag toevoegen'. Er zal een venster openen.
+Druk nu op 'Opslag toevoegen'. Er zal een venster openen.  
 ![image](https://github.com/user-attachments/assets/17edee29-c571-4682-b094-7a3ccdf05a4c)
 
-In dit venster druk je op 'Artikel(groep)Opslag'.
+Op dit venster druk je op 'Artikel(groep)Opslag'.  
 ![image](https://github.com/user-attachments/assets/951ce4f5-5d4b-40b3-b52a-2c5f56a14767)
 
-Zodra je terugkeert naar het vorige venster, controleer of alles correct is ingesteld. Je wordt automatisch naar het vorige venster teruggebracht.
+Als het goed is, wordt je uit dit venster gehaald en moet het volgende zichtbaar zijn.  
 ![image](https://github.com/user-attachments/assets/e39223c5-2b5c-4744-a020-1e1da31a78c3)
 
-We willen de instelling 'Afronden: __ (decimalen)' op 2 zetten.
+We willen 'Afronden: __ (decimalen)' op 2 zetten.  
 ![image](https://github.com/user-attachments/assets/711c1bf0-7b62-4caa-aefd-0de6869ed9d2)
 
-STAP 15: Zet de kolom op regel 8. Klik op '3Debiteur voorraadartikelgroepopslag' en gebruik de knop 'Stap omlaag' tot je bij '8Debiteur voorraadartikelgroepopslag' bent.
+Druk op de '3Debiteur voorraadartikelgroepopslag' en druk bovenin op 'stap omlaag' tot deze op '8Debiteur voorraadartikelgroepopslag' staat, dus regel 8.  
 ![image](https://github.com/user-attachments/assets/17006819-35d3-4e8e-bb64-ba09470befb0)
 
-We gaan weer terug naar de debiteur en gaan naar Internet > Internet toegang. Druk op 'Toegankelijke voorraden'.
+---
+
+We gaan nu terug naar de debiteur en navigeren naar Internet > Internet toegang. Druk op 'Toegankelijke voorraden'.  
 ![image](https://github.com/user-attachments/assets/5d87b2ae-135a-45fe-9079-15e4a12f8449)
 
-Zoek de voorraad waarin de artikelen staan die je wilt aanpassen en vink het vakje 'O' aan.
+Zoek de voorraad waarin de artikelen staan die je wilt aanpassen en vink de kolom 'O' aan.  
 ![image](https://github.com/user-attachments/assets/31bb13b6-0653-452e-ae14-58ebb62dc416)
 
-STAP 16: Ga terug naar de debiteur en zoek onder Opslagen > Opslagen.
+Nu gaan we terug naar de debiteur en zoeken we onder Opslagen > Opslagen.  
 ![image](https://github.com/user-attachments/assets/00f6343a-790e-407a-b85c-c22f1c21668a)
 
-STAP 17: Het laatste wat we moeten doen is de systeeminstelling 'ArtikelOpslagenzoekenAdv' aanzetten.
-
-Ga naar het hoofdscherm van Florisoft en klik bovenaan op 'Onderhoud'.
+Het laatste wat we moeten doen, is de systeeminstelling 'ArtikelOpslagenzoekenAdv' aanzetten. Ga naar het hoofdscherm van Florisoft en druk bovenaan op 'Onderhoud'.  
 ![image](https://github.com/user-attachments/assets/5615a040-ec5b-40b8-87a0-739c4c1f5c3e)
 
-Klik nu op 'Setup system'. Er zal een venster verschijnen.
+Druk nu op 'Setup system'. Er zal een venster verschijnen.  
 ![image](https://github.com/user-attachments/assets/ef5a58a6-3bb4-4470-8a06-a4ad3d6f419d)
 
-Open de 'Geavanceerd' kolom en voer de admin pin in.
+Open de 'Geavanceerd' kolom en voer de admin pin in.  
 ![image](https://github.com/user-attachments/assets/b5ec3144-fae5-4c6f-b3aa-4ce20b013957)
 
-Dit venster zal nu verschijnen met alle systeeminstellingen.
+Dit venster zal nu verschijnen met alle systeeminstellingen.  
 ![image](https://github.com/user-attachments/assets/fb26472e-60ce-4ad5-8686-8934edeb0a45)
 
 Druk dan op F3 om te zoeken.
 
-Zoek de instelling 'artikelOpslagenzoekenAdv' en zet deze op 'True'.
+Zoek de instelling 'artikelOpslagenzoekenAdv' en zet deze op 'True'.  
 ![image](https://github.com/user-attachments/assets/a9856306-b85e-48e7-8a3d-6e873b7319f4)
