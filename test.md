@@ -1,4 +1,4 @@
-# Artikelgroep op sortingskenmerken
+# Artikel/Artikelgroep opslagen per sortingskenmerken
 
 Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
