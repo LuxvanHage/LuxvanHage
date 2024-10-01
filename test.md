@@ -2,14 +2,9 @@
 
 Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
-**STAP 1:** Open Florisoft  
-![image](https://github.com/user-attachments/assets/6acc4470-4a5d-4ac1-a424-798553401663)
+Ga naar constanten>Artikelen>Artikel gegevens> Artikelnummers.
+![image](https://github.com/user-attachments/assets/73cbd173-a522-4cf1-8e91-026a0995866c)
 
-**STAP 2:** Open de voorraad  
-![image](https://github.com/user-attachments/assets/64f8aadb-4898-4e54-8863-a05e815d837d)
-
-**STAP 3:** Open de voorraad met het product dat je wilt aanpassen  
-![image](https://github.com/user-attachments/assets/0a723830-b8af-4fae-ab60-4ed223d152dc)
 
 **STAP 4:** Selecteer het artikel dat je wilt aanpassen  
 ![image](https://github.com/user-attachments/assets/05a1dbc5-c971-43f4-a002-3eaf4b2ca4b0)
