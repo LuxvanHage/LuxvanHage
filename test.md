@@ -14,14 +14,15 @@ Ga naar `Constanten > Organen > Debiteurgegevens > Debiteur`. Zoek de debiteur o
 ### Stap 2: Webservice instellen
 Ga naar `Internet > Webservice > Aanbiedingen` en vul hier de gegevens voor de Florisoft webservice in.
 
-![image](https://github.com/user-attachments/assets/3c9d13a5-fe2c-45ee-b8f7-0de3e27a1df4)
+![image](https://github.com/user-attachments/assets/fb7c519b-ea46-400c-a592-a84a314cfd78)
 
 ![Florisoft Webservice Configuratie](https://github.com/user-attachments/assets/b6e2b600-f8e5-4701-809a-0e2edda190bb)
 
 ### Stap 3: Server instellen
 Ga naar `Webservice > Server` en vul de servergegevens in.
 
-![Florisoft Webservice Server](https://github.com/user-attachments/assets/301aea44-4d73-45cd-9365-13c70170b5b0)
+![image](https://github.com/user-attachments/assets/7b22b54c-9620-41fe-b851-62f7fd0e5c79)
+
 
 ### Stap 4: Informatie communiceren
 Nadat alles is ingesteld, geef de volgende gegevens door aan de aanvrager zodat zij deze aan hun klant kunnen doorgeven:
@@ -50,7 +51,8 @@ Ga naar `Internet > Webservice > Aanbiedingen` en vul hier de gegevens in voor d
 ### Stap 3: Server instellen
 Ga naar `Webservice > Server` en vul de servergegevens in.
 
-![Etrade Webservice Server](https://github.com/user-attachments/assets/301aea44-4d73-45cd-9365-13c70170b5b0)
+![image](https://github.com/user-attachments/assets/a4de5841-e9d8-483c-af31-7606b70ab749)
+
 
 ### Stap 4: Informatie communiceren
 Nadat alles is ingesteld, geef de volgende gegevens door aan de aanvrager zodat zij deze aan hun klant kunnen doorgeven:
