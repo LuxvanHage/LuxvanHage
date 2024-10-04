@@ -14,7 +14,7 @@ Ga naar `Constanten > Organen > Debiteurgegevens > Debiteur`. Zoek de debiteur o
 ### Stap 2: Webservice instellen
 Ga naar `Internet > Webservice > Aanbiedingen` en vul hier de gegevens voor de Florisoft webservice in.
 
-![Florisoft Webservice Instellen](https://github.com/user-attachments/assets/8d73221a-32a1-4ee2-96a6-56484e709c07)
+![image](https://github.com/user-attachments/assets/3c9d13a5-fe2c-45ee-b8f7-0de3e27a1df4)
 
 ![Florisoft Webservice Configuratie](https://github.com/user-attachments/assets/b6e2b600-f8e5-4701-809a-0e2edda190bb)
 
