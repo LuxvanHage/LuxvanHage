@@ -1,4 +1,4 @@
-# Handleiding: Het verwijderen van de 'hier afscheuren'-sticker tussen pickorders
+# Verwijderen van de 'hier afscheuren'-sticker tussen pickorders
 
 1. **Ga naar**:  
    `Constanten > Systeem > Users > Systeemgebruikers`  
