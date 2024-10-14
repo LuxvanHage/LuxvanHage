@@ -3,6 +3,7 @@
 Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
 Ga naar constanten>Artikelen>Artikel gegevens> Artikelnummers.
+
 ![image](https://github.com/user-attachments/assets/73cbd173-a522-4cf1-8e91-026a0995866c)
 
 
