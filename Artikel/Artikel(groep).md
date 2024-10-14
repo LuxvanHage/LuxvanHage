@@ -2,46 +2,46 @@
 
 Volg de stappen om artikelen van verschillende potmaat of steellengte een ander prijspercentage te geven, zodat een grotere maat meer zal kosten, bijvoorbeeld 12% van de originele prijs.
 
-Ga naar constanten>Artikelen>Artikel gegevens> Artikelnummers.
+**STAP 1:**Ga naar constanten>Artikelen>Artikel gegevens> Artikelnummers.
 
 ![image](https://github.com/user-attachments/assets/73cbd173-a522-4cf1-8e91-026a0995866c)
 
 
-**STAP 4:** Selecteer het artikel dat je wilt aanpassen  
+**STAP 2:** Selecteer het artikel dat je wilt aanpassen  
 ![image](https://github.com/user-attachments/assets/05a1dbc5-c971-43f4-a002-3eaf4b2ca4b0)
 
-**STAP 5:** Druk op de rechter muisknop en selecteer 'Open artikel'  
+**STAP 3:** Druk op de rechter muisknop en selecteer 'Open artikel'  
 ![image](https://github.com/user-attachments/assets/244bcb63-a5c9-4d6b-9fac-f079a61463e3)
 
-**STAP 6:** Druk dan op het pijltje hier weergegeven:  
+**STAP 4:** Druk dan op het pijltje hier weergegeven:  
 ![image](https://github.com/user-attachments/assets/0c7770c4-ac21-4b44-877a-0214272a6c69)
 
-**STAP 7:** Je komt in een nieuw venster en druk dan op dit knopje  
+**STAP 5:** Je komt in een nieuw venster en druk dan op dit knopje  
 ![image](https://github.com/user-attachments/assets/f937fbaf-02b4-4cbc-93b7-c362eb969827)
 
-**STAP 8:** Hier zie je de lengte bij 'S1' en de extra kosten in percentage van de originele prijs in 'Perc.Opslag'. In dit voorbeeld is 12% gebruikt.  
+**STAP 6:** Hier zie je de lengte bij 'S1' en de extra kosten in percentage van de originele prijs in 'Perc.Opslag'. In dit voorbeeld is 12% gebruikt.  
 ![image](https://github.com/user-attachments/assets/125049ae-6bcd-4ee3-95c9-1f222177809a)
 
-**STAP 9:** Vergeet je artikel niet te koppelen aan een DebGrp (DebiteurGroep). In dit voorbeeld hebben we '11' gebruikt.  
+**STAP 7:** Vergeet je artikel niet te koppelen aan een DebGrp (DebiteurGroep). In dit voorbeeld hebben we '11' gebruikt.  
 ![image](https://github.com/user-attachments/assets/ef637e8c-57e5-4170-a90c-1196bbf53560)
 
 ---
 
 Nu hebben we de artikelen aangepast en is het tijd om de debiteur zo in te stellen dat er voor andere maten of lengtes een extra percentage moet worden betaald.
 
-**STAP 10:** Ga naar Constanten  
+**STAP 8:** Ga naar Constanten  
 ![image](https://github.com/user-attachments/assets/413886e8-0ad0-4b31-b919-a48d83d677c6)
 
-**STAP 11:** Ga naar Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur  
+**STAP 9:** Ga naar Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur  
 ![image](https://github.com/user-attachments/assets/d7c5fa08-275f-4e40-b59f-64c0e41be99d)
 
-**STAP 12:** Als je een debiteur hebt geopend, ga dan naar Financieel > Prijzen  
+**STAP 10:** Als je een debiteur hebt geopend, ga dan naar Financieel > Prijzen  
 ![image](https://github.com/user-attachments/assets/d4075e30-0445-48b8-801a-e3ad765c520c)
 
-**STAP 13:** Pas 'Opslagcategorie per VBN-artikelgroep' aan zodat het gelijk staat aan stap 9. In dit voorbeeld is dat '11', maar dit is afhankelijk van de gekozen instelling.  
+**STAP 11:** Pas 'Opslagcategorie per VBN-artikelgroep' aan zodat het gelijk staat aan stap 9. In dit voorbeeld is dat '11', maar dit is afhankelijk van de gekozen instelling.  
 ![image](https://github.com/user-attachments/assets/09617010-768d-42d5-949f-637c911cf127)
 
-**STAP 14:** We gaan nu de 'Prijsconfiguratie' goed instellen. Druk op het pijltje aangegeven met rood om een venster te openen.  
+**STAP 12:** We gaan nu de 'Prijsconfiguratie' goed instellen. Druk op het pijltje aangegeven met rood om een venster te openen.  
 ![image](https://github.com/user-attachments/assets/12032635-e26e-41eb-a5df-ea721c9ef165)
 
 Druk vervolgens op 'Stappen instellen'. Er zal een venster openen.  
