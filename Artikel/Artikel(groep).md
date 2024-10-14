@@ -29,7 +29,9 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een ander 
 
 Nu hebben we de artikelen aangepast en is het tijd om de debiteur zo in te stellen dat er voor andere maten of lengtes een extra percentage moet worden betaald.
 
-**STAP 9:**Ga naar constanten>Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur  
+**STAP 9:** Ga naar constanten>Organen > Debiteurgegevens > Debiteuren en selecteer een debiteur  
+![image](https://github.com/user-attachments/assets/fe138756-6eef-48d0-aa46-95e1be501891)
+
 
 **STAP 10:** Als je een debiteur hebt geopend, ga dan naar Financieel > Prijzen  
 ![image](https://github.com/user-attachments/assets/d4075e30-0445-48b8-801a-e3ad765c520c)
