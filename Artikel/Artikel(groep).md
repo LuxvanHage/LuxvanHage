@@ -8,7 +8,7 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een ander 
 
 
 **STAP 2:** Selecteer het artikel dat je wilt aanpassen  
-![image](https://github.com/user-attachments/assets/05a1dbc5-c971-43f4-a002-3eaf4b2ca4b0)
+![image](https://github.com/user-attachments/assets/62c31788-90f3-4001-a352-f4df6777ed57)
 
 **STAP 3:** Druk op de rechter muisknop en selecteer 'Open artikel'  
 ![image](https://github.com/user-attachments/assets/244bcb63-a5c9-4d6b-9fac-f079a61463e3)
