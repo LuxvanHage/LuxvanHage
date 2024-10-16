@@ -14,7 +14,7 @@ Volg de stappen om artikelen van verschillende potmaat of steellengte een ander 
 ![image](https://github.com/user-attachments/assets/244bcb63-a5c9-4d6b-9fac-f079a61463e3)
 
 **STAP 4:** Druk dan op het pijltje hier weergegeven:  
-![image](https://github.com/user-attachments/assets/0c7770c4-ac21-4b44-877a-0214272a6c69)
+![image](https://github.com/user-attachments/assets/15d548b5-525e-488b-8543-4dd1fae1a1ac)
 
 **STAP 5:** Je komt in een nieuw venster en druk dan op dit knopje  
 ![image](https://github.com/user-attachments/assets/f937fbaf-02b4-4cbc-93b7-c362eb969827)
