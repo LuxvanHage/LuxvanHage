@@ -52,7 +52,3 @@ Nadat je op "Volgende" hebt geklikt, kun je de opdracht voltooien. Nadat je de o
 
 ![Afbeelding Stap 11 & 12](https://github.com/FloralTradeGroup/Florisoft/assets/120085682/cd41affc-3178-405a-8f9b-7c31f462ace4)
 
----
-
-**Let op!**  
-De stappen die worden aangegeven in de afbeeldingen zelf horen niet bij de stappen hierboven beschreven.
