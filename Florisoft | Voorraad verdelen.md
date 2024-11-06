@@ -2,27 +2,20 @@
 
 Volg de onderstaande stappen om verdelingen te maken binnen je voorraad in Florisoft.
 
-### **Stap 1: Open Florisoft**
-Open Florisoft en ga naar **Voorraad**.
+### **Stap 1: Open Voorraad**
+Open voorraad op her beginscherm
 
-![Florisoft openen](https://github.com/user-attachments/assets/b42b5b0b-9398-45c8-8ce7-c29912a2baf1)
-
-### **Stap 2: Ga naar Voorraad**
-Navigeer naar het menu **Voorraad** om je voorraad te beheren.
-
-![Ga naar Voorraad](https://github.com/user-attachments/assets/e09b1b81-cff3-44be-8a8a-656e1c568852)
-
-### **Stap 3: Selecteer de Gewenste Voorraad**
+### **Stap 2: Selecteer een Voorraad**
 Zoek naar de voorraad waarin je verdelingen wilt maken en selecteer deze.
 
 ![Selecteer de voorraad](https://github.com/user-attachments/assets/b3ba5d12-39db-45d3-bd3d-cd7c973e108b)
 
-### **Stap 4: Bekijk de Artikellijst**
+### **Stap 3: Bekijk de Artikellijst**
 Je ziet nu een lijst met alle artikelen in de geselecteerde voorraad.
 
 ![Artikellijst bekijken](https://github.com/user-attachments/assets/b1693bff-d8b5-4341-884f-dac9f342d110)
 
-### **Stap 5: Artikel Verdelen**
+### **Stap 4: Artikel Verdelen**
 Selecteer de artikelen en vul de benodigde informatie in:
 - **Debnr**: Debiteurnummer
 - **Stuks**: Aantal stuks
@@ -33,7 +26,7 @@ Selecteer de artikelen en vul de benodigde informatie in:
 ![Ordernummer voorbeeld](https://github.com/user-attachments/assets/fb49745b-5be3-487f-a2c9-10905ebcff36)
 ![image](https://github.com/user-attachments/assets/f71a19b5-cd91-4e7e-a0db-e13d497dd534)
 
-### **Stap 6: Opslaan en Toevoegen van Artikelen**
+### **Stap 5: Opslaan en Toevoegen van Artikelen**
 Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (ordernummer kan verschillen). Druk daarna op **Opslaan**. Je kunt ook andere artikelen toevoegen en vervolgens weer op **Opslaan** drukken.
 
 ![Opslaan en toevoegen](https://github.com/user-attachments/assets/b97fce5a-0d15-4231-ae37-647b12ed324b)
@@ -42,12 +35,12 @@ Nadat je de informatie hebt ingevuld, zou je iets vergelijkbaars moeten zien (or
 ### **Let Op: Testvoorraad**
 De volgende stappen zijn alleen van toepassing als je werkt met een testvoorraad, zoals STRIPE. Voor testvoorraden moeten de verdelingen handmatig worden doorgeboekt. Als je met een reguliere voorraad werkt, hoef je deze stappen niet te volgen. De verdeling zal automatisch met de timer worden doorgeboekt.
 
-### **Stap 7: Handmatig Doorboeken voor Testvoorraad**
+### **Stap 6: Handmatig Doorboeken voor Testvoorraad**
 Als je werkt met een testvoorraad zoals STRIPE, moet je de verdelingen handmatig doorboeken. Druk op **F2** en klik vervolgens op **OK** om de verdeling handmatig door te boeken.
 
 ![F2 en OK](https://github.com/user-attachments/assets/c94fca8d-babc-4f7c-acbc-60e0ccc8f278)
 
-### **Stap 8: Controleer of de Factuur is Doorgeboekt**
+### **Stap 7: Controleer of de Factuur is Doorgeboekt**
 Om te controleren of de factuur is doorgeboekt, volg je deze stappen:
 
 1. Ga naar **Facturen**.
